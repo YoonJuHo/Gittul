@@ -9,13 +9,16 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    private var viewModel: String!
+    private var viewModel: Int!
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+
+        setupView()
     }
+    
+    private func setupView() {
 
-
+    }
 }
 
