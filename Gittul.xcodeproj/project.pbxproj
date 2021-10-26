@@ -13,6 +13,7 @@
 		FF1262BB2725167700146543 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FF1262B92725167700146543 /* Main.storyboard */; };
 		FF1262BD2725167900146543 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FF1262BC2725167900146543 /* Assets.xcassets */; };
 		FF1262C02725167900146543 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FF1262BE2725167900146543 /* LaunchScreen.storyboard */; };
+		FF1262CE2728248400146543 /* CustomViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF1262CD2728248400146543 /* CustomViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		FF1262BC2725167900146543 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FF1262BF2725167900146543 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FF1262C12725167900146543 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FF1262CD2728248400146543 /* CustomViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				FF1262B32725167700146543 /* AppDelegate.swift */,
 				FF1262B52725167700146543 /* SceneDelegate.swift */,
 				FF1262B72725167700146543 /* ViewController.swift */,
+				FF1262CD2728248400146543 /* CustomViewController.swift */,
 				FF1262B92725167700146543 /* Main.storyboard */,
 				FF1262BC2725167900146543 /* Assets.xcassets */,
 				FF1262BE2725167900146543 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				FF1262B82725167700146543 /* ViewController.swift in Sources */,
 				FF1262B42725167700146543 /* AppDelegate.swift in Sources */,
 				FF1262B62725167700146543 /* SceneDelegate.swift in Sources */,
+				FF1262CE2728248400146543 /* CustomViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
