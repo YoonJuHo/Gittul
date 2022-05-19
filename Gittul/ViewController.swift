@@ -25,5 +25,9 @@ class ViewController: UIViewController {
     private func setupView() {
         
     }
+    
+    private func actionButton() {
+        
+    }
 }
 
