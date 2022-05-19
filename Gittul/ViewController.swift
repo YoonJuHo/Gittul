@@ -23,7 +23,7 @@ class ViewController: UIViewController {
     }
     
     private func setupView() {
-        
+        // 카카오페이에서 개발을 나중에
     }
 }
 
