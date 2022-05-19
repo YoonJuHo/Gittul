@@ -19,7 +19,7 @@ class ViewController: UIViewController {
     }
 
     private func setupNotification() {
-
+        // NotificationCenter.default
     }
     
     private func setupView() {
@@ -28,6 +28,8 @@ class ViewController: UIViewController {
     
     private func actionButton() {
         // print()
+        // 123
+        // 456
     }
 }
 
