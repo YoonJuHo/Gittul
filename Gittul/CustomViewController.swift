@@ -8,7 +8,9 @@
 import UIKit
 
 final class CustomViewController: UIViewController {
-    
+    func setupView() {
+        
+    }
 }
 
 extension String {
