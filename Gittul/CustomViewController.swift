@@ -10,3 +10,7 @@ import UIKit
 final class CustomViewController: UIViewController {
     
 }
+
+extension String {
+    var isNotEmpty: Bool { !isEmpty }
+}
