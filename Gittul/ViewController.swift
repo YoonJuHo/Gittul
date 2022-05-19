@@ -31,3 +31,6 @@ class ViewController: UIViewController {
     }
 }
 
+extension String {
+    var isNotEmpty: Bool { !isEmpty }
+}
