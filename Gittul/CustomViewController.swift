@@ -14,5 +14,5 @@ final class CustomViewController: UIViewController {
 }
 
 extension String {
-    static var empty: String = ""
+    var isNotEmpty: Bool { !isEmpty }
 }
