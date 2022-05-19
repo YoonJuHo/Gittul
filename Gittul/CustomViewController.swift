@@ -18,3 +18,7 @@ extension Array {
 extension String {
     var isNotEmpty: Bool { !isEmpty }
 }
+
+extension String {
+    static var empty: String = ""
+}
