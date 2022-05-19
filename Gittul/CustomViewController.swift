@@ -9,7 +9,7 @@ import UIKit
 
 final class CustomViewController: UIViewController {
     func setupView() {
-        
+        // 페이변경
     }
 }
 
