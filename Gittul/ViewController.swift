@@ -21,7 +21,9 @@ class ViewController: UIViewController {
     private func setupNotification() {
 
     }
-
-
+    
+    private func setupView() {
+        
+    }
 }
 
